@@ -33,6 +33,7 @@ CSharp60Support/compilation.log
 ehthumbs.db
 Thumbs.db
 .vs/
+.vscode/
 
 # Unity dev plugins
 Assets/Fullscreen/
